@@ -1,0 +1,41 @@
+.navbar{
+  background-color: rgb(7, 2, 42);
+  display: flex;
+  justify-content: space-around;
+  padding:30px 0px ;
+}
+.links a{
+  color:rgb(248, 248, 251);
+  text-decoration: none;
+  margin: 0px 15px;
+  font-size: 20px;
+}
+.links a:hover{
+  color: rgb(243, 11, 11);
+}
+.home{
+  background-color: rgb(7, 0, 21);
+  text-align: center;
+}
+.movielist img{
+  padding: 0px 50px;
+  border-radius: 20px;
+  justify-content: space-evenly
+  
+ ;
+  
+}
+.fav{
+  background-color: rgb(7, 0, 21);
+  color: rgb(227, 8, 8);
+  text-align: center;
+
+}
+.list:hover{
+  background-color: black;
+}
+.footer{
+  background-color: rgb(2, 2, 57);
+  
+  text-align: center;
+}

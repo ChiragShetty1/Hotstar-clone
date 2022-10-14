@@ -1,0 +1,39 @@
+{
+    "favourites":
+        [
+            {
+                "title":"Loki",
+                "genre":"sci-fic",
+                "language":"multi",
+                "rating":"8",
+                "id":"1"
+            },{
+                "title":"Sandman",
+                "genre":"fantacy",
+                "language":"multi",
+                "rating":"7.8",
+                "id":"2"
+            },{
+                "title":"See",
+                "genre":"action",
+                "language":"multi",
+                "rating":"6.8",
+                "id":"3"
+    
+            },{
+                "title":"Rings Of Power",
+                "genre":"adventure",
+                "language":"multi",
+                "rating":"7.5",
+                "id":"4"
+            },{
+                "title":"Vikings",
+                "genre":"action",
+                "language":"multi",
+                "rating":"8.2",
+                "id":"5"
+    
+            }
+            ]
+        }
+    
